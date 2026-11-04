@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "77aa9009dcc17815",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fcdf5091af56ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25e9fcc80ed3a9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holobeast/⭐ Holobeast/01-Holopédia/Nº015 Hoperdragon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nº015 Hoperdragon"
+            }
+          },
+          {
+            "id": "ff15483e9f9b8b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holobeast/⭐ Holobeast/01-Holopédia/Nº015 Hoperdragon.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Nº015 Hoperdragon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ce107b54018695d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bccf4724c42df0b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3530bf0f059db50f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "bb243c30f14ab27a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87114e918e9a649f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d652220ce531a5b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41e9d680018255f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Grizerus Nº 000.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "901b8ca76a49e83b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Grizerus Nº 000.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "19fea4d8f1056816",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4e63ee9cadb49574",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "5d7f64621c2b32db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Holobeast/⭐ Holobeast/01-Holopédia/Nº015 Hoperdragon.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "9d597182bbc0090f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "quartz-syncer:Quartz Syncer Publication Center": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "25e9fcc80ed3a9fa",
+  "lastOpenFiles": [
+    "Holobeast/⭐ Holobeast/00├──Inbox/Home.md.md",
+    "99 - Templates 1.md",
+    "Holobeast/Design_Referencias.md.md",
+    "Holobeast/⭐ Holobeast/06-Mundo (Regiões de Brasidia, Cidades, NPCs, Lore)/📜Lore/📖A Historia de Brasidia.md",
+    "Holobeast/⭐ Holobeast/04-Mecanicas/Sem título.md",
+    "Holobeast/⭐ Holobeast/01-Holopédia/Nº015 Hoperdragon.md",
+    "Holobeast/⭐ Holobeast/01-Holopédia/Nº000 Grizerus.md",
+    "Holobeast/⭐ Holobeast/index.md.md",
+    "Holobeast/⭐ Holobeast/02-Tipagens/home.md",
+    "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Nº015 Hoperdragon 1.md",
+    "Sem título.md",
+    "Holobeast/sprites/Grizerus.png.md",
+    "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Pherinho Nº001.md",
+    "Holobeast/⭐ Holobeast/02-Tipagens/Contador_e_Combinacoes.md.md",
+    "Holobeast/⭐ Holobeast/02-Tipagens/Dicionario de Cores.md.md",
+    "Holobeast/⭐ Holobeast/02├──🧮Tipagens/Codigo Hex tipos.md",
+    "Holobeast/⭐ Holobeast/Hokédex_Categorias.md.md",
+    "Holobeast/99 - Templates.md",
+    "Holobeast/Pasted image 20261023220559.png",
+    "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Aquilis Nº010.md",
+    "Holobeast/⭐ Holobeast/02-Tipagens/Gelo.png",
+    "Holobeast/⭐ Holobeast/02-Tipagens/Ancestral.png",
+    "Holobeast/⭐ Holobeast/02├──🧮Tipagens/100.md",
+    "Holobeast/sprites/Hoperdragon.png",
+    "Holobeast/sprites/Tamanhos/HeightComparison-chart.png",
+    "Holobeast/⭐ Holobeast/02-Tipagens/Normal.png",
+    "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Ventis Nº009.md",
+    "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Tesouril Nº008.md",
+    "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Calagolis Nº007.md",
+    "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Geolax Nº006.md",
+    "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Geolax Nº005.md",
+    "Holobeast/⭐ Holobeast/01├──🐾Holopédia/Lagolito Nº004.md",
+    "Holobeast/sprites/Tamanhos",
+    "Holobeast/⭐ Holobeast/02-Tipagens/Pedra.png",
+    "Holobeast/sprites"
+  ]
+}

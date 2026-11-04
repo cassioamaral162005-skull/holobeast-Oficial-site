@@ -1,0 +1,13 @@
+/* Smooth caret transition for Ninja Cursor */
+.x-cursor {
+    position: inline-block;
+    background: var(--caret-color);
+    width: 1px;
+    
+    /* This controls the smoothness of the movement */
+    transition: all 80ms ease-out !important; 
+    
+    /* Dynamically adjusts cursor height to font size */
+    --cursor-height: calc(var(--font-text-size) - 2px);
+    max-height: calc(var(--font-ui-large) * 2);
+}

@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a2480f243212865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88a2234dda2038d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b76cba09d9d3401",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3c8477b125ad6cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dfd12d6cc2131c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "000ed9dce1672c5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2b3888e5f8ce33f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "228bba555748558c",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b385fbfebd2b0cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c61d9c3f14e127fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a1ed54c50fdc44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Componentes.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "aab784119cdce8fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "⭐ Holobeast/├── 📜Lore/📖A Historia de Brasidia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "31de861a6bc0e6a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "92cbe63e5858d2b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "e405c78b9c5cc8f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "⭐ Holobeast/├── 📜Lore/📖A Historia de Brasidia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "dfb4e5219e264c54",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          },
+          {
+            "id": "406a337236d53f59",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "docs/Componentes.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriedades dos arquivos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "webpage-html-export:Export as HTML": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false,
+      "callout-manager:Insert Callout": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "f88a2234dda2038d",
+  "lastOpenFiles": [
+    "⭐ Holobeast/02├──🧮Tipagens/~$P tabela de vantagens e desvantagens de Tipos.xlsx",
+    "⭐ Holobeast/02├──🧮Tipagens/P tabela de vantagens e desvantagens de Tipos.xlsx",
+    "⭐ Holobeast/02├──🧮Tipagens/Voador.png",
+    "⭐ Holobeast/02├──🧮Tipagens/Elétrico.png",
+    "⭐ Holobeast/02├──🧮Tipagens/Gelo.png",
+    "⭐ Holobeast/02├──🧮Tipagens/Planta.png",
+    "⭐ Holobeast/02├──🧮Tipagens/Água.png",
+    "⭐ Holobeast/02├──🧮Tipagens/Fogo.png",
+    "⭐ Holobeast/02├──🧮Tipagens/Aço.png",
+    "⭐ Holobeast/02├──🧮Tipagens/Fantasma.png",
+    "⭐ Holobeast/02├──🧮Tipagens/Inseto.png",
+    "⭐ Holobeast/02├──🧮Tipagens/Pedra.png",
+    "⭐ Holobeast/06├── Mundo (Regiões de Brasidia, Cidades, NPCs, Lore)/└──📜Lore/└──📖A Historia de Brasidia.md",
+    "⭐ Holobeast/02├──🧮Tipagens/Tabela de Tipos.md.md",
+    "⭐ Holobeast/06├── Mundo (Regiões de Brasidia, Cidades, NPCs, Lore)",
+    "⭐ Holobeast/08├──Itens/└──Habilidades",
+    "⭐ Holobeast/08├──Itens/└──Golpes",
+    "⭐ Holobeast/08├──Itens",
+    "⭐ Holobeast/03├──Arsenal/└──🛡️Habilidades",
+    "⭐ Holobeast/03├──Arsenal/└──⚔️Golpes",
+    "⭐ Holobeast/07├──Sistema",
+    "99 Anexos/sprites( Imagens, referências)",
+    "99 Anexos",
+    "Visão Geral.md",
+    "Site/README.md",
+    "Site/Páginas.md",
+    "Site/Modelos de Dados.md",
+    "Site/Guia de Uso.md",
+    "Site/Componentes.md",
+    "Site/Bem-vindo.md",
+    "Site/Arquitetura.md",
+    "Site/Visão Geral.md",
+    "Site/Setup e Execução.md",
+    "Site/Roadmap & TODO.md",
+    "Setup e Execução.md",
+    "⭐ Holobeast/01├──🐾Holopédia/Sem título.md",
+    "docs/Visão Geral.md",
+    "docs/Setup e Execução.md",
+    "docs/Roadmap & TODO.md",
+    "docs/README.md",
+    "docs/Páginas.md",
+    "docs/Modelos de Dados.md",
+    "docs/Guia de Uso.md",
+    "docs/Componentes.md",
+    "docs/Arquitetura.md",
+    "README.md"
+  ]
+}

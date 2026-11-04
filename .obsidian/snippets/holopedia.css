@@ -1,0 +1,47 @@
+/* Container principal baseado no PokéStop.io */
+.pokestop-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    padding: 20px;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 320px;
+    position: relative;
+}
+
+/* O círculo de fundo suave */
+.pokestop-circle {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    /* A cor de fundo padrão (pode ser alterada via inline HTML) */
+    background: rgba(168, 167, 122, 0.12); 
+    top: 35px;
+    z-index: 1;
+}
+
+/* Configuração da arte do monstrinho */
+.pokestop-sprite {
+    position: relative;
+    z-index: 2;
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    /* Remove sombras duras e foca no traço do sprite */
+    filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.08));
+}
+
+/* Sombra oval no chão abaixo do círculo */
+.pokestop-shadow {
+    width: 120px;
+    height: 12px;
+    background: rgba(0, 0, 0, 0.06);
+    border-radius: 50%;
+    margin-top: 15px;
+    filter: blur(2px);
+    z-index: 1;
+}
